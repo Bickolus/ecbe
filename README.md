@@ -10,7 +10,8 @@ A video walkthrough has been recorded to demonstrate its functions.
 
 > Github Repository Link: [https://github.com/Bickolus/ecbe](https://github.com/Bickolus/ecbe)
 >
-> Video Link: 
+> Video Link for Setup: [https://user-images.githubusercontent.com/96181899/155817343-114a2397-bf0a-4865-b2e2-031ac541c256.mp4](https://user-images.githubusercontent.com/96181899/155817343-114a2397-bf0a-4865-b2e2-031ac541c256.mp4)
+> Video Link for Tests: [https://user-images.githubusercontent.com/96181899/155817349-6817b6af-c724-4c99-ac46-55c589876072.mp4](https://user-images.githubusercontent.com/96181899/155817349-6817b6af-c724-4c99-ac46-55c589876072.mp4)
 
 ## Table of Contents
 
@@ -42,11 +43,11 @@ In order to run this program, a couple things need to be done. Firstly, the user
 
 #### Setting up
 
-
+https://user-images.githubusercontent.com/96181899/155817343-114a2397-bf0a-4865-b2e2-031ac541c256.mp4
 
 #### Testing Routes
 
-
+https://user-images.githubusercontent.com/96181899/155817349-6817b6af-c724-4c99-ac46-55c589876072.mp4
 
 ## License
 
