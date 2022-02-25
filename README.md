@@ -38,7 +38,13 @@ In order to run this program, a couple things need to be done. Firstly, the user
 
 ![Gif of TETA running](./images/ecbe-demo-03.gif)
 
-### Video Demonstration (Add/Update Tables)
+### Video Demonstration
+
+#### Setting up
+
+
+
+#### Testing Routes
 
 
 
